@@ -1,0 +1,8 @@
+{
+"prompt": "A Soviet Constructivist propaganda poster depicting a machine learning classification system. Central composition with bold diagonal banner in Cyrillic reading 'КЛАССИФИКАЦИЯ ДАННЫХ'. Use red, black, and off-white palette only. Geometric shapes (circles, squares, triangles) grouped into labeled categories 'КЛАСС A' and 'КЛАСС Б'. Radiating lines, arrows, and industrial gear motifs showing flow of data into classes. Strong asymmetry, dynamic diagonals, flat graphic design, high contrast. Authentic 1920s–1930s Russian Constructivist style, sharp typography, no gradients, no modern elements, no photorealism.",
+"model": "Google Gemini 2.5 Flash Image",
+"concept": "Supervised learning classification (categorizing data into distinct classes)",
+"tradition_name": "Soviet Constructivist posters",
+"tradition_period": "1920s–1930s",
+"tradition_approach": "Used bold diagonals, limited red-black palette, Cyrillic typography, geometric abstraction, and industrial motifs to mirror Constructivist visual grammar while mapping data points into distinct labeled classes."
+}
